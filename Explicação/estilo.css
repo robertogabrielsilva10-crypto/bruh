@@ -1,0 +1,20 @@
+section{
+
+    background-color: black; /*cor de fundo */
+
+height: 300px; /* altura */
+
+ /* flex box - organização de leiautes */
+
+display: flex;
+flex-direction: row; /* propriedade para decidir se o conteúdo fica em linha */
+justify-content: center; /* enquanto row controla a horizontal */
+align-items: center ; /* enquanto row controla a vertical */
+gap: 50px;
+}
+
+div{
+background-color: aqua;
+height: 200px;
+width: 150px;
+}

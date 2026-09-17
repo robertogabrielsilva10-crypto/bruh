@@ -1,0 +1,26 @@
+
+
+div{
+
+    background-color: red;
+    border: 1px solid black;
+    height: 200px;
+    width: 100px;
+
+}
+
+section{
+
+    display: flex;
+    gap: 15px;
+    justify-content: center;
+    align-items: center;
+    background-color: burlywood;
+    height: 300px;
+}
+
+header{
+
+    background-color: red;
+    height: 100px;
+}

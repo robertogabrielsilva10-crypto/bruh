@@ -1,0 +1,64 @@
+
+div{
+
+    background-color: red;
+    border: 1px solid black;
+    height: 300px;
+    width: 100px;
+
+}
+
+div{
+
+    background-color: red;
+    border: 1px solid black;
+    height: 200px;
+    width: 350px;
+
+}
+
+#lateral{
+    width: 150px;
+}
+
+section{
+
+    display: flex;
+    gap: 15px;
+    justify-content: center;
+    align-items: start;
+    background-color: burlywood;
+    margin: 10px 0px 10px 0px;
+    flex-direction: row;
+   
+}
+
+header{
+
+    background-color: red;
+    height: 100px;
+
+}
+
+footer{
+
+    background-color: red;
+    height: 100px;
+}
+
+#conteudo-principal{
+
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    padding: 10px;
+    height: 600px;
+    padding: 10px;
+
+}
+
+.bloco{
+
+    background-color: crimson;
+    width:100px;
+}
